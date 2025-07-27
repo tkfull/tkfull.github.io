@@ -1,0 +1,38 @@
+---
+title: "Research"
+output:
+  postcards::jolla
+theme: custom.css
+---
+<div style="text-align: left;">
+
+<span style="text-decoration:underline"> **Works in Progress** </span> 
+
+**[Job Market Paper]** "Establishment-Level Unionization at Large Firms: Evidence from the 21st Century” *with [Alexander Abajian](https://acabajian.com/)* (<span style="text-decoration:underline">[Latest Version](JMP.pdf)</span>) 
+
+
+
+
+<details>
+  <summary>Abstract</summary>
+We examine the effect of establishment-level unionization elections on the equity value of publicly listed firms between 1994 and 2023. Successful elections at individual establishments have two opposing effects on firm stock returns --- there is a small decrease in returns the day an election is filed, and a countervailing increase on the day the election is closed. On net, we find a precise null effect of union victories on daily stock returns. This result is robust to alternative definitions of treatment, longer time horizons for returns, and alternative sample selection. 
+</details> 
+
+<br>
+
+
+"Combating Inequality with Transparency? Evidence from Colorado" *with [Sebastian Brown](https://sebastiannbrown.github.io/)* (<span style="text-decoration:underline">[Latest Version](pay_transparency.pdf)</span>) 
+
+
+
+<details>
+  <summary>Abstract</summary>
+Does increasing wage transparency effectively reduce pay disparities? We address this question by examining the impact of Colorado's Equal Pay for Equal Work Act, a pioneering statewide policy mandating that employers disclose salary ranges in all job postings. Employing a synthetic control method to compare Colorado's experience with a carefully constructed counterfactual, we find no evidence that the law narrowed the gender earnings gap among newly hired workers. In fact, our estimates indicate a widening of approximately 15 percent, a statistically significant increase relative to the synthetic control. We perform additional correlational industry-level analysis, finding suggestive patterns consistent with gender differences in search or bargaining behavior. Our results highlight critical challenges in designing transparency policies and emphasize the necessity of ensuring that information interventions align closely with the behavioral responses of the intended beneficiaries.
+</details> 
+
+<br>
+
+
+"The Impact of the Inflation Reduction Act on Pharmaceutical R\&D" *with [George Yang](https://iamgyang.github.io/)* (<span style="text-decoration:underline">Draft can be sent upon request</span>)
+
+</div>

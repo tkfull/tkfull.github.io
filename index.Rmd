@@ -1,0 +1,28 @@
+---
+title: "Welcome!"
+image: "thomas.jpg"
+class: home
+links:
+  - label: CV
+    url: "CV.pdf"
+  - label: Job Market Paper
+    url: "JMP.pdf"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/thomas-fullagar-2a12a4109/"
+  - label: GitHub
+    url: "https://github.com/tkfull"
+  - label: Email
+    url: "mailto:fullagar@ucsb.edu"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+<div style="text-align: left;">
+  Welcome! I'm Thomas Fullagar (pronounced “Full-uh-gar”), a recent PhD graduate from the University of California, Santa Barbara (UCSB), currently on the job market. My research is broadly in applied labor economics.
+
+  My job market paper examines the causal effects of union elections on firm stock prices. The second chapter of my dissertation analyzes whether a comprehensive wage transparency law reduced gender earnings gaps. The final chapter explores how the Inflation Reduction Act (IRA) affected pharmaceutical firms’ R&D investment decisions.
+  
+  While at UCSB, I also worked at the <a href="https://efp.ucsb.edu/" target="_blank">Economic Forecast Project</a> (EFP). Where I helped create interactive dashboards informing the public on socioeconomic trends within the county. Prior to UCSB, I worked at Welch Consulting, a leader in economic consulting, research, and analysis of labor and employment issues.
+
+  Outside of research, I enjoy playing soccer, reading, and walking on the beach with <a href="mocha.jpg">Mocha</a>.
+</div>
